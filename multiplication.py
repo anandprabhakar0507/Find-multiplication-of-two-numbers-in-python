@@ -1,7 +1,7 @@
 # This program multiply two numbers
 
-m = 7
-v = 2
+m = int(input("First Number: "))
+v = int(input("Second Number: "))
 
 # Multiply two numbers
 into= float(m) * float(v)
